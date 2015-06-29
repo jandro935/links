@@ -4,4 +4,4 @@ En este repositorio encontrarás diversos archivos MD con enlaces que pueden res
 
 ### Archivos
 
-- [enlacesDeInteres.md](master/enlacesDeInteres.md) 
+- [enlacesDeInteres.md](enlacesDeInteres.md) 
